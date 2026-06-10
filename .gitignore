@@ -17,3 +17,20 @@ Thumbs.db
 
 # Others
 *.log
+
+# Assets and downloaded site files not part of the Python scraping project
+js/
+js(1)/
+css/
+css2/
+*.transferir
+*.png.webp
+logo_footer.png
+logo_nova.png.webp
+embed.php
+f(1).txt
+f(2).txt
+f(3).txt
+f.txt
+pixel.html
+Pagina.html
