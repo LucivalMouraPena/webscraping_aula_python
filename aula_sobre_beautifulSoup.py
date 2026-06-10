@@ -42,3 +42,4 @@ url_link = links[0]['href']
 print(url_link) 
 for link in links:
     print(link['href'])
+    
