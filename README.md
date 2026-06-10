@@ -26,7 +26,14 @@ python aula_sobre_beautifulSoup.py
 ## Arquivos relevantes
 
 - `aula_sobre_beautifulSoup.py` — script de exemplo
-- `Pagina Hashtag.html` — arquivo HTML usado no exemplo
+- `Pagina Hashtag.html` — arquivo HTML local usado no exemplo (não versionado)
+
+## Arquivo HTML local
+
+O script procura primeiro por `Pagina.html` e, se não encontrar, usa `Pagina Hashtag.html`.
+
+- Mantenha `Pagina Hashtag.html` no mesmo diretório de `aula_sobre_beautifulSoup.py`.
+- Este arquivo não está no repositório e deve ficar apenas no seu ambiente local.
 
 ## Observações
 
