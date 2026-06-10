@@ -23,6 +23,10 @@ js/
 js(1)/
 css/
 css2/
+js
+js(1)
+css
+css2
 *.transferir
 *.png.webp
 logo_footer.png
